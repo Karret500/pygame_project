@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Pygame stuff (if you have assets)
+*.wav
+*.mp3
+*.png
+*.jpg
+*.ogg
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+
